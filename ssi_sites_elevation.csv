@@ -1,0 +1,36 @@
+"","Watershed","Old_site_code","New_site_code","Creek_name","elevation"
+"1","Deer Creek","DC 1","DC 10","Deer Creek",957.96
+"2","Deer Creek","DC 2","DC 20","Deer Creek",766.85
+"3","Deer Creek","DC 13","DC 22","Little Deer Creek",762.44
+"4","Deer Creek","DC 12","DC 24","Little Deer Creek",759.56
+"5","Deer Creek","DC 11","DC 26","Little Deer Creek",754.65
+"6","Deer Creek","DC 17","DC 28","Gold Run Creek",745.89
+"7","Deer Creek","DC 3","DC 30","Deer Creek",731.48
+"8","Deer Creek","DC 4","DC 40","Deer Creek",705.94
+"9","Deer Creek","DC 19","DC 50","Deer Creek",809.67
+"10","Deer Creek","DC 5","DC 60","Deer Creek",608.24
+"11","Deer Creek",NA,"DC 70","Deer Creek",583.42
+"12","Deer Creek","DC 6","DC 80","Deer Creek",366.76
+"13","Deer Creek","DC 18","DC 90","Deer Creek",346.25
+"14","Deer Creek","DC 7","DC 100","Deer Creek",330.82
+"15","Deer Creek","DC 8","DC 110","Deer Creek",247.16
+"16","Deer Creek","DC 15","DC 114","Squirrel Creek",426.16
+"17","Deer Creek","DC 16","DC 116","Squirrel Creek",276.54
+"18","Deer Creek","DC 9","DC 120","Deer Creek",237.46
+"19","Deer Creek","DC 10","DC 130","Deer Creek",200.03
+"20","Deer Creek","DC 14","DC 140","Deer Creek",93.14
+"21","Bear River","BR 1","BR 10","Bear River",1405.47
+"22","Bear River","BR 2","BR 20","Bear River",672.71
+"23","Bear River","BR 3","BR 22","Steephollow Creek",675.12
+"24","Bear River","BR 4","BR 25","Greenhorn Creek",672.73
+"25","Bear River","BR 5","BR 30","Bear River",589.85
+"26","Bear River","BR 6","BR 40","Bear River",511.09
+"27","Bear River","BR 7","BR 50","Bear River",381.52
+"28","Bear River","BR 9","BR 51","Wooley Creek",499.96
+"29","Bear River","BR 11","BR 53","Magnolia Creek",418.63
+"30","Bear River","BR 12","BR 55","Dry Creek",97.67
+"31","Bear River","BAFB 1C","BR 56-1","Dry Creek",58.89
+"32","Bear River","BAFB 2B","BR 56-2","Dry Creek",51.63
+"33","Bear River","BAFB 3C","BR 56-3","Dry Creek",50.5
+"34","Bear River","BR 13","BR 57","Dry Creek",20.44
+"35","Bear River","BR 8","BR 60","Bear River",11.38
